@@ -44,7 +44,8 @@ while True:
     print("MAC Address",s.recv(1024).decode())
 ```
 ## OUPUT - ARP
-<img width="1919" height="1014" alt="Screenshot 2026-05-13 103356" src="https://github.com/user-attachments/assets/f35034e4-3439-4a82-b103-0534014752b9" />
+<img width="1307" height="206" alt="image" src="https://github.com/user-attachments/assets/dcebb155-cf1a-4f4d-96ee-4b6ea6b2c480" />
+
 
 ## PROGRAM - RARP
 ## SERVER
